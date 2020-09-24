@@ -107,6 +107,8 @@ SHRP_MAINTAINER := ProNoob
 # Device codename *
 SHRP_DEVICE_CODE := RMX1821
 
+SHRP_NOTCH := true
+
 # Recovery Type (It can be treble,normal,SAR) [Only for About Section] *
 SHRP_REC_TYPE := Treble
 
